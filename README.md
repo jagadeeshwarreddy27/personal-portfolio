@@ -1,2 +1,7 @@
-"# personal-portfolio" 
-"# personal-portfolio" 
+A RESPONSIVE PERSONAL PORTFOLIO FOR BEGGINERS
+
+TECHNOLOGIES USED:
+
+HTML
+CSS
+JAVASCRIPT
